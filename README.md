@@ -8,8 +8,14 @@
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) 
 
 ### 📚 frameworks & libraries
+![Pandas](https://img.shields.io/badge/pandas-2C2D72?style=flat&logo=pandas&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-huggingface-FDEE21?style=flate&logo=HuggingFace&logoColor=black)
+![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Selenium](https://img.shields.io/badge/selenium-43B02A?style=flat&logo=Selenium&logoColor=white)
+*
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) 
+*
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)
 
