@@ -21,6 +21,7 @@
 ### ⚙️ other bits
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 [![](https://visitcount.itsvg.in/api?id=rumaisa-azeem&icon=0&color=0)](https://visitcount.itsvg.in)
 
